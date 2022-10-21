@@ -1,0 +1,37 @@
+FEATURES TO GRADE
+
+Functional Decomposition: Use methods (a.k.a., functions) to 
+break up a large program into meaningful chunks, using input to and output from those functions 
+where appropriate.
+
+Looping with Repetition Control Structures: Use two of the following structures: 
+for, while, do/while, for-each.
+
+
+Branching with Selection Control Structures: Use multiple (i.e., more than one) 
+if/else and/or switch statements in your code. 
+(You don't need to use both kinds of statements. 
+if/else means any kind of if/else statement.)
+
+
+Using Multiple Classes: Build and use more than one class in your project. 
+Note that a class that only has a main method and does not have any instance variables 
+or methods does not count as a "class" in this feature. 
+Thus, if you have a driver class that only has a main method and you want credit 
+for this feature, you need at least two other classes in addition to the driver class. 
+Also, for the purpose of this assignment, 
+this grading criterion can only be met by classes that have no static variables or methods (except the main method).
+
+One-dimensional arrays: Make use of a one-dimensional array in your software. 
+If it is a partially-filled array, 
+keep track of its current number of live elements with an int.
+
+Class Design using Access Modifiers: Make all class-wide instance variables 
+private in your class, and provide "getters" and "setters" to get and set the data accordingly.
+
+
+ALSO I DID THE EXTRA CREDIT. 
+I MADE MY OWN GAME THAT IS ONE PLAYER AGAINST THE COMPUTER. 
+ONCE WE GUESS, THE COMPUTER GOES. AND SO ON. ONCE ONE PERSON REACHES 20
+THEY WIN!
+
